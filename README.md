@@ -33,3 +33,9 @@
 ## บทความเล่าประสบการณ์จากทีม tech ขององค์กรต่างๆ
 
 - [dttpool middleware](https://www.facebook.com/killernay/posts/10156173949109013) - มุมมองปัญหาที่เกิดขึ้นระหว่างการรายงานผลคะแนนเลือกตั้ง โดยคุณ Chanon Ngernthongdee
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Code For Thailand](https://github.com/codeforthailand) has waived all copyright and related or neighboring rights to this work.
