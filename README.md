@@ -19,7 +19,7 @@
 
 - [รายชื่อผู้ได้คะแนนสูงสุดอย่างไม่เป็นทางการ แบ่งรายจังหวัดและเขต 25 มี.ค. 15.00 น.](https://docs.google.com/spreadsheets/d/1nWKaLVZ1ORRt4ZxpM0OjaNi0-87T_q4N4M22_yXQkyg) - โดย [@unnawut](https://twitter.com/unnawut/status/1110130174891184128)
 - [รายชื่อผู้ได้คะแนนสูงสุดอย่างไม่เป็นทางการ แบ่งรายจังหวัดและเขต 25 มี.ค. 15.00 น.](https://docs.google.com/spreadsheets/d/1BVSaw1TWtijbW5AvAtJUzV5HloIeja0bEMNLwpdAkqs) - แหล่งที่ 2
-- [การคำนวณสส.แบบบัญชีรายชื่อ](https://docs.google.com/spreadsheets/d/1qltkGKxz25FMLu5DWqZZB9YDKRxeAzWkcgZ8SreZpmg) - โดย [Panjamapong S.](https://www.facebook.com/panjmp/posts/10213919036116548)
+- [การคำนวณส.ส.แบบบัญชีรายชื่อ](https://docs.google.com/spreadsheets/d/1qltkGKxz25FMLu5DWqZZB9YDKRxeAzWkcgZ8SreZpmg) - โดย [Panjamapong S.](https://www.facebook.com/panjmp/posts/10213919036116548)
 
 ## ระบบที่เปิดโอเพนซอร์ส
 
