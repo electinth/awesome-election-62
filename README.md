@@ -15,6 +15,9 @@
 - https://elect.in.th/election-simulator
 - https://election.voicetv.co.th/simulate
 
+## ระบบ visualization อื่นๆ
+- [วิเคราะห์ศึกเลือกตั้งบนโลกโซเชียล](https://tvirot.github.io/elect.in.th)
+
 ## ข้อมูลการเลือกตั้งแบบ machine-readable
 
 - [รายชื่อผู้ได้คะแนนสูงสุดอย่างไม่เป็นทางการ แบ่งรายจังหวัดและเขต 25 มี.ค. 15.00 น.](https://docs.google.com/spreadsheets/d/1nWKaLVZ1ORRt4ZxpM0OjaNi0-87T_q4N4M22_yXQkyg) - โดย [@unnawut](https://twitter.com/unnawut/status/1110130174891184128)
@@ -25,6 +28,7 @@
 
 - [codeforthailand/election-live](https://github.com/codeforthailand/election-live) - โค้ด front end เบื้องหลัง [ELECT LIVE](https://elect.thematter.co)
 - [Cleverse/thailand-party-list-calculator](https://github.com/Cleverse/thailand-party-list-calculator) - ระบบคำนวณส.ส.บัญชีรายชื่อ เบื้องหลัง [Workpoint News](https://vote.workpointnews.com)
+ - [tvirot/elect.in.th](https://github.com/tvirot/elect.in.th) - เบื้องหลัง [วิเคราะห์ศึกเลือกตั้งบนโลกโซเชียล](https://tvirot.github.io/elect.in.th)
 
 ## บทวิเคราะห์ข้อมูล
 
