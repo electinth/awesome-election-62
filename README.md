@@ -23,7 +23,8 @@
 - [รายชื่อผู้ได้คะแนนสูงสุดอย่างไม่เป็นทางการ แบ่งรายจังหวัดและเขต 25 มี.ค. 15.00 น.](https://docs.google.com/spreadsheets/d/1nWKaLVZ1ORRt4ZxpM0OjaNi0-87T_q4N4M22_yXQkyg) - โดย [@unnawut](https://twitter.com/unnawut/status/1110130174891184128)
 - [รายชื่อผู้ได้คะแนนสูงสุดอย่างไม่เป็นทางการ แบ่งรายจังหวัดและเขต 25 มี.ค. 15.00 น.](https://docs.google.com/spreadsheets/d/1BVSaw1TWtijbW5AvAtJUzV5HloIeja0bEMNLwpdAkqs) - แหล่งที่ 2
 - [การคำนวณส.ส.แบบบัญชีรายชื่อ](https://docs.google.com/spreadsheets/d/1qltkGKxz25FMLu5DWqZZB9YDKRxeAzWkcgZ8SreZpmg) - โดย [Panjamapong S.](https://www.facebook.com/panjmp/posts/10213919036116548)
-- [ข้อมูลเขตเลือกตั้งและรายชื่อผู้สมัคร ส.ส. แบบแบ่งเขต และแบบบัญชีรายชื่อ](https://github.com/codeforthailand/dataset-election-62-candidates/tree/master/data) 
+- [ข้อมูลเขตเลือกตั้งและรายชื่อผู้สมัคร ส.ส. แบบแบ่งเขต และแบบบัญชีรายชื่อ](https://github.com/codeforthailand/dataset-election-62-candidates/tree/master/data)
+- [คะแนนผู้สมัครรายเขตและรายพรรค 28 มี.ค. 14:35 น.](https://docs.google.com/spreadsheets/d/1xKLvpNFD9JtIY7HJ8vk1AjlVUAT-AjaQrvKDBDv6Tu4/edit)
 
 ## ระบบที่เปิดโอเพนซอร์ส
 
