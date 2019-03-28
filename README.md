@@ -23,6 +23,7 @@
 - [รายชื่อผู้ได้คะแนนสูงสุดอย่างไม่เป็นทางการ แบ่งรายจังหวัดและเขต 25 มี.ค. 15.00 น.](https://docs.google.com/spreadsheets/d/1nWKaLVZ1ORRt4ZxpM0OjaNi0-87T_q4N4M22_yXQkyg) - โดย [@unnawut](https://twitter.com/unnawut/status/1110130174891184128)
 - [รายชื่อผู้ได้คะแนนสูงสุดอย่างไม่เป็นทางการ แบ่งรายจังหวัดและเขต 25 มี.ค. 15.00 น.](https://docs.google.com/spreadsheets/d/1BVSaw1TWtijbW5AvAtJUzV5HloIeja0bEMNLwpdAkqs) - แหล่งที่ 2
 - [การคำนวณส.ส.แบบบัญชีรายชื่อ](https://docs.google.com/spreadsheets/d/1qltkGKxz25FMLu5DWqZZB9YDKRxeAzWkcgZ8SreZpmg) - โดย [Panjamapong S.](https://www.facebook.com/panjmp/posts/10213919036116548)
+- [ข้อมูลเขตเลือกตั้งและรายชื่อผู้สมัคร ส.ส. แบบแบ่งเขต และแบบบัญชีรายชื่อ](https://github.com/codeforthailand/dataset-election-62-candidates/tree/master/data) 
 
 ## ระบบที่เปิดโอเพนซอร์ส
 
@@ -33,6 +34,8 @@
 ## บทวิเคราะห์ข้อมูล
 
 - [วิเคราะห์การเปลี่ยนแปลงของคะแนนโหวตที่ได้รับจาก API ของกกต.](https://www.facebook.com/ta.chiraphadhanakul/posts/10157283641938278) - โดยคุณ Virot C.
+
+- [วิเคราะห์หาตระกูลนักการเมืองในการเลือกตั้งสภาผู้แทนราษฎร ปี 2562 โดยดูจากนามสกุลผู้สมัครที่อยู่พรรคเดียวกันหรือจังหวัดเดียวกัน](https://github.com/codeforthailand/dataset-election-62-candidates/blob/master/notebooks/political-dynasty.ipynb) - โดยคุณ [c4n](https://github.com/c4n)
 
 ## บทความเล่าประสบการณ์จากทีม tech ขององค์กรต่างๆ
 
