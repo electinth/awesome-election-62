@@ -43,6 +43,8 @@
 
 - [dttpool middleware](https://www.facebook.com/killernay/posts/10156173949109013) - มุมมองปัญหาที่เกิดขึ้นระหว่างการรายงานผลคะแนนเลือกตั้ง โดยคุณ Chanon N.
 
+- [มองระบบที่ทางภาครัฐฯ พัฒนาขึ้น สำหรับการเลือกตั้งครั้งที่ 28 (24 มี.ค. 2562)](https://medium.com/@p16i/มองระบบที่ทางภาครัฐฯ-พัฒนาขึ้น-สำหรับการเลือกตั้งครั้งที่-28-24-มี-ค-2562-20d8d4621062) - โดยคุณ [heytitle](https://github.com/heytitle)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
